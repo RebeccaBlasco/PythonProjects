@@ -1,0 +1,2 @@
+These python codes extract data from Twitter. The Scrape codes pull data from twitter based on either hashtag or username and date range. The twitter bot uses Twitter Developer API to grab the first tweet it finds with a certain hashtag. It will then like and retweet that tweet through the user's twitter account. This code communicates with another code (that is not loaded on GitHub) that contains the API keys given to the user from twitter.
+Librares used in the scrape codes are snscrape and pandas. Libraries used in the twitter bot are tweepy, datetime and time. 
